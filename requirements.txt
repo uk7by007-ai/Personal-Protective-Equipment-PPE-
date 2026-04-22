@@ -1,5 +1,7 @@
 ultralytics
 streamlit
 opencv-python-headless
+opencv-python
 pandas
-Pillow
+pillow
+pyyaml
